@@ -37,7 +37,7 @@ const Component6 = () => {
             <div className="w-[1112px] m-auto md:w-[375px] md:mx-[-35px]">
                 <div className="w-full h-[780px] md:w-[full] md:h-[200px]">
                     <img
-                        src="./image/session8/bg.jpg"
+                        src="/image/session8/bg.jpg"
                         alt=""
                         className=" w-full h-[780px]  md:h-[200px] md:w-[375px] "
                     />

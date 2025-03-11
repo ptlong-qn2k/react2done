@@ -13,32 +13,28 @@ const Component1 = () => {
                         </p>
                     </div>
                     <div className="w-[217px] h-[105px] flex flex-row justify-between ">
-                        <img src="./image/session2/image 86.png" alt="" className="" />
-                        <img src="./image/session2/image 87.png" alt="" className="" />
+                        <img src="/image/session2/image 86.png" alt="" className="" />
+                        <img src="/image/session2/image 87.png" alt="" className="" />
                     </div>
                 </div>
-                <img
-                    src="./image/session2/System 1.png"
-                    alt=""
-                    className="relative left-[21px] top-[-15px] md:hidden"
-                />
+                <img src="/image/session2/System 1.png" alt="" className="relative left-[21px] top-[-15px] md:hidden" />
             </div>
             <div className=" w-[1112px] mx-auto flex flex-col items-center  mb-[136px] md:w-full md:md:mb-[95px]">
                 <p className="text-[16px] text-center mb-[30px] md:">
                     Our clients include 150 Global Brands, Silicon Valley Founders
                 </p>
                 <div className="w-[601.41px] flex flex-row justify-between items-center mb-[34.08px] md:w-full md:justify-around ">
-                    <img src="./image/session2/aminsurance.png" alt="" className="" />
-                    <img src="./image/session2/uob.png" alt="" className="" />
-                    <img src="./image/session2/IAG.png" alt="" className="md:hidden" />
-                    <img src="./image/session2/image 23.png" alt="" className="md:hidden" />
+                    <img src="/image/session2/aminsurance.png" alt="" className="" />
+                    <img src="/image/session2/uob.png" alt="" className="" />
+                    <img src="/image/session2/IAG.png" alt="" className="md:hidden" />
+                    <img src="/image/session2/image 23.png" alt="" className="md:hidden" />
                 </div>
                 <div className="w-[807.86px] h-[61.26px] flex flex-row justify-between items-center md:w-full md:justify-around  ">
-                    <img src="./image/session2/prudential.png" alt="" className="md:hidden" />
-                    <img src="./image/session2/pwc.png" alt="" className="" />
-                    <img src="./image/session2/AIA.png" alt="" className="" />
-                    <img src="./image/session2/ocbc.png" alt="" className="md:hidden" />
-                    <img src="./image/session2/360f.png" alt="" className="" />
+                    <img src="/image/session2/prudential.png" alt="" className="md:hidden" />
+                    <img src="/image/session2/pwc.png" alt="" className="" />
+                    <img src="/image/session2/AIA.png" alt="" className="" />
+                    <img src="/image/session2/ocbc.png" alt="" className="md:hidden" />
+                    <img src="/image/session2/360f.png" alt="" className="" />
                 </div>
             </div>
         </div>

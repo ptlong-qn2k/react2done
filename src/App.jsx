@@ -17,7 +17,7 @@ function App() {
     };
 
     return (
-        <div className="w-[full] m-auto font-gotham md:w-[376px] md:px-[32px]">
+        <div className="w-[full] m-auto font-gotham md:w-[375px] md:px-[32px] md:pt-5">
             <Header sidebar={sidebar} statusSidebar={statusSidebar} />
             <Component1 />
             <Component2 />

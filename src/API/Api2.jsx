@@ -3,64 +3,64 @@ import { number } from 'yup';
 export const ListIcon = [
     {
         id: 1,
-        URL: './image/session4/image1.png',
+        URL: '/image/session4/image1.png',
         Name: 'AWS',
     },
     {
         id: 2,
-        URL: './image/session4/image2.png',
+        URL: '/image/session4/image2.png',
         Name: 'Azure',
     },
     {
         id: 3,
-        URL: './image/session4/image3.png',
+        URL: '/image/session4/image3.png',
         Name: 'GCP',
     },
     {
         id: 4,
-        URL: './image/session4/image4.png',
+        URL: '/image/session4/image4.png',
         Name: 'Docker',
     },
     {
         id: 5,
-        URL: './image/session4/image5.png',
+        URL: '/image/session4/image5.png',
         Name: 'Kubernetes',
     },
     {
         id: 6,
-        URL: './image/session4/image6.png',
+        URL: '/image/session4/image6.png',
         Name: 'ECK/ECR',
     },
 ];
 export const ListIcon2 = [
     {
         id: 1,
-        URL: './image/session4/image7.png',
+        URL: '/image/session4/image7.png',
         Name: 'Ethereum',
     },
     {
         id: 2,
-        URL: './image/session4/image8.png',
+        URL: '/image/session4/image8.png',
         Name: 'Solana',
     },
     {
         id: 3,
-        URL: './image/session4/image9.png',
+        URL: '/image/session4/image9.png',
         Name: 'Tezos',
     },
     {
         id: 4,
-        URL: './image/session4/image10.png',
+        URL: '/image/session4/image10.png',
         Name: 'PolkaDot',
     },
     {
         id: 5,
-        URL: './image/session4/image11.png',
+        URL: '/image/session4/image11.png',
         Name: 'Cardano',
     },
     {
         id: 6,
-        URL: './image/session4/image12.png',
+        URL: '/image/session4/image12.png',
         Name: 'Hyperledger',
     },
 ];
@@ -71,7 +71,7 @@ export const ListIcon3 = [
         number2: 1,
         number3: 2,
         md: ' md:col-start-2 md:col-end-4 md:row-start-1',
-        URL: './image/session4/image13.png',
+        URL: '/image/session4/image13.png',
         Name: 'Solana',
     },
     {
@@ -80,7 +80,7 @@ export const ListIcon3 = [
         number2: 1,
         number3: 4,
         md: ' md:col-start-4 md:col-end-6 md:row-start-1',
-        URL: './image/session4/image14.png',
+        URL: '/image/session4/image14.png',
         Name: 'Angular',
     },
     {
@@ -89,7 +89,7 @@ export const ListIcon3 = [
         number2: 1,
         number3: 6,
         md: ' md:col-start-6 md:col-end-8 md:row-start-1',
-        URL: './image/session4/image15.png',
+        URL: '/image/session4/image15.png',
         Name: 'GoLang',
     },
 ];
@@ -100,7 +100,7 @@ export const ListIcon4 = [
         number2: 2,
         number3: 1,
         md: ' md:col-start-1 md:col-end-3 md:row-start-2',
-        URL: './image/session4/image16.png',
+        URL: '/image/session4/image16.png',
         Name: 'Java',
     },
     {
@@ -109,7 +109,7 @@ export const ListIcon4 = [
         number2: 2,
         number3: 3,
         md: ' md:col-start-3 md:col-end-5 md:row-start-2',
-        URL: './image/session4/image17.png',
+        URL: '/image/session4/image17.png',
         Name: 'Javascript',
     },
     {
@@ -118,7 +118,7 @@ export const ListIcon4 = [
         number2: 2,
         number3: 5,
         md: ' md:col-start-5 md:col-end-7 md:row-start-2',
-        URL: './image/session4/image18.png',
+        URL: '/image/session4/image18.png',
         Name: 'node.js',
     },
     {
@@ -127,7 +127,7 @@ export const ListIcon4 = [
         number2: 2,
         number3: 7,
         md: ' md:col-start-7 md:col-end-9 md:row-start-2',
-        URL: './image/session4/image19.png',
+        URL: '/image/session4/image19.png',
         Name: 'react.js',
     },
 ];

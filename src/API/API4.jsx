@@ -2,7 +2,7 @@ export const Development = [
     {
         id: 1,
         title: 'Discovery Stage',
-        URL: './image/session6/anh1.png',
+        URL: '/image/session6/anh1.png',
         content1:
             'We look at your project requirements at this stage. We try to get a sense of what blockchain solutions you need. Each blockchain network (public, private, and hybrid) has distinct pluses and minuses.',
         content2:
@@ -12,7 +12,7 @@ export const Development = [
     {
         id: 2,
         title: 'Product Feasibility Study',
-        URL: './image/session6/anh2.png',
+        URL: '/image/session6/anh2.png',
         content1:
             'Next, we do a theoretical build-up of your blockchain app or website, outlining the architecture, frameworks, consensus mechanism, tech stacks, mockups, designs, and feasibility.',
         content2:
@@ -22,7 +22,7 @@ export const Development = [
     {
         id: 3,
         title: 'Product Development',
-        URL: './image/session6/anh3.png',
+        URL: '/image/session6/anh3.png',
         content1:
             'At this point, we focus on the blockchain platforms, programming languages, UI/UX, databases, APIs, and the middleware that connects the external systems with the blockchain.',
         content2:
@@ -32,7 +32,7 @@ export const Development = [
     {
         id: 4,
         title: 'Support and Maintenance',
-        URL: './image/session6/anh4.png',
+        URL: '/image/session6/anh4.png',
         content1:
             'Our job doesn’t end with just the product launch. We offer post-launch support too. We closely monitor the transactions executed in blockchain and keep a regular watch to remove bugs/glitches (if any).',
         content2:

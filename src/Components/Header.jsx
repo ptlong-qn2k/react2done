@@ -9,9 +9,9 @@ const Header = ({ sidebar, statusSidebar }) => {
 
     return (
         <div>
-            <div className="w-[1112px] h-20 flex flex-row items-center m-auto md:w-full md:justify-between md:mt-[20px] md:h-auto md:mb-[75.83px]">
+            <div className="w-[1112px] h-20 flex flex-row items-center m-auto md:w-full md:justify-between md:h-auto md:mb-[75.83px]">
                 <img
-                    src="./image/Group.png"
+                    src="/image/Group.png"
                     alt=""
                     className="w-[162px] mr-[229px] md:w-[124px] md:h-[21.17px] md:mr-0 "
                 />

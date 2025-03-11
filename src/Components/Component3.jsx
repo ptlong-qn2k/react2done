@@ -3,7 +3,7 @@ import '../Styles/App.css';
 import { ListIcon, ListIcon2, ListIcon3, List4, ListIcon4 } from '../API/Api2';
 const Component3 = () => {
     return (
-        <div>
+        <div className="w-full md:w-full">
             <div className="w-[1112px] h-[325px] m-auto bg-primary text-center pt-[69px] md:w-[375px] md:h-[369px] md:ml-[-35px] md:pt-[72px] ">
                 <h3 className="text-5xl text-white leading-[60px] font-bold md:text-[35px] md:leading-[43.75px] md:mx-auto md:mb-[21px]">
                     50+ PROJECTS DELIVERED
@@ -126,7 +126,7 @@ const Component3 = () => {
                         </div>
                         <div className="flex flex-col items-center mx-auto md:w-full md:mb-9">
                             <p className="text-[16px] text-center mb-6">Standards we Follow</p>
-                            <div className="w-[506px] h-[63px] text-sm flex flex-row gap-1 justify-between items-center md:w-[275px] md:grid md:h-auto  md:gap-y-[11px] md:gap-x-2 md:m-auto md:grid_ok">
+                            <div className="w-[506px] h-[63px] text-sm flex flex-row gap-1 justify-between items-center md:w-[275px] md:grid md:h-auto md:gap-y-[11px] md:gap-x-2 md:m-auto grid_ok">
                                 {List4 &&
                                     List4.map((data) => (
                                         <div
